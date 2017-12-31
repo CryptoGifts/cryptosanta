@@ -1,4 +1,4 @@
-This is the repository for the smart-contract code of [cryptosanta.gifts](https://cryptosanta.gifts), which operates on Etherum blockchain.
+This is the repository for the smart-contract code of [cryptosanta.gifts](https://cryptosanta.gifts), which operates on Ethereum blockchain.
 
 Smart-contract is used to maintain non-fungible [ERC-721](https://github.com/ethereum/eips/issues/721) token GIFT which is crypto-collectible gift from lazy Santa on Christmas and New Year of 2017.
 
